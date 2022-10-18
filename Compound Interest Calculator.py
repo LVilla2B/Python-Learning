@@ -1,6 +1,6 @@
 # This program will request how much money will be in your savings account and then calculate
 # based on the interest rate how many years it will take to pay off your given debt from interest
-# alone.
+# alone. The program prints out how much money you will have after each year.
 
 account = float(input("Insert amount of money you have deposited: "))
 interest_rate = float(input("Insert the interest rate of your savings account: "))
